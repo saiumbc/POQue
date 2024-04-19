@@ -3,8 +3,7 @@
 POQue is a crowdsourced dataset consisting of ~ 8K annotations of complex events in ~ 4K stories.  Each story is annotated from the perspective of a single participant.  For the situation described in a story, an annotation is partially tailored to the identified participant taking on an "Agent-like" and "Patient-like" semantic role. Each annotation consists of several parts -- a high level process summary of the situation, its outcome and the changes resulting from it.  More details on the annotations are presented below.  
 
 Here we release the collected annotations and the training, validation and test splits of the dataset.  We also release the source code used for training and testing the BART and T5 models for which we reported results in the paper.
-Our paper "POQue: Asking Participant-specific Outcome questions for a Deeper Understanding of Complex Events" is published in the Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (http://https://aclanthology.org/2022.emnlp-main.pdf).
-The camera ready version is available on ArXiv (https://arxiv.org/abs/... [Will add this tomorrow when Arxiv releases the submission).
+Our paper "POQue: Asking Participant-specific Outcome questions for a Deeper Understanding of Complex Events" is published in the Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (https://aclanthology.org/2022.emnlp-main.pdf) and a direct link to the paper can be found here (https://aclanthology.org/2022.emnlp-main.594/).
 
 ## Dataset Information
 
