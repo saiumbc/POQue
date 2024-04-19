@@ -188,7 +188,7 @@ We will update this when the formal proceedings are published.
     year = "2022",
     address = "Online and Abu Dhabi, UAE",
     publisher = "Association for Computational Linguistics",
-    url = "https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.594/",
+    url = "https://aclanthology.org/2022.emnlp-main.594/",
     doi = "",
     pages = "",
 }
